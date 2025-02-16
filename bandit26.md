@@ -7,7 +7,7 @@ Có thể thấy shell mặc định là `/usr/bin/showtext` thay vì `/bin/bash
 Nó sẽ exit ngay sau khi show hết thông tin trong `text.txt`.Còn lênh `more` sẽ khiến file hiện thị theo từng trang. Và để lênh `more` ko kết thúc ngay khi kết nối đến bandit26, ta sẽ thu nhỏ terminal lại và khi đó `more` sẽ ko hiện hết thông tin và sẽ ko kết thúc ngay.\
 ![alt text](image/26.4.png)\
 Sau đó setup lại shell để gõ lệnh lấy flag\
-![alt text](image26.5.png)\
+![alt text](image/26.5.png)\
 (Trên ảnh thừa dấu cách sửa lại `:set shell=/bin/bash`)\
 Sau đó mở shell lên và đọc file `/etc/pass_bandit/bandit26` để lấy flag\
 ![alt text](image/26.6.png)

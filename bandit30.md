@@ -8,4 +8,4 @@ Dùng lệnh `git check out` để chuyển nhánh\
 ![alt text](image/30.4.png)\
 Sau khi chuyển nhánh xong check xem có những gì\
 ![alt text](image/30.5.png)\
-![alt text](image30.6.png)
+![alt text](image/30.6.png)

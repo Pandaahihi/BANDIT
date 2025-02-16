@@ -2,7 +2,7 @@
 Vì vậy ta sẽ viết 1 scrip bao gồm flag và 1 dãy số 4 số và kết nối đến cổng 30002.\
 ![alt text](image/25.1.png)\
 Cùng với đó tạo 1 file để chứa data.\
-Chạy và ktra file chứa data.
+Chạy và ktra file chứa data.\
 ![alt text](image/25.2.png)\
 Cuối cùng đứa data vào cổng 30002 kết hợp sử dụng `grep -v Wrong` để loại bỏ những trường hợp sai.\
 ![alt text](image/25.3.png)
