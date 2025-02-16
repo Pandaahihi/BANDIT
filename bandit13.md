@@ -1,8 +1,8 @@
 Đầu tiên ta sẽ tạo ra 1 file tạm trong /tmp\
-![alt text](image/13.1.png.png)\
+![alt text](image/13.1.png)\
 
 Sau đó ta coppy file data từ thư mục chính vào trong thư mục hiện tại. Tiếp theo ta sẽ reverse lại file hexdump này với xxd\
-![alt text](image/13.2.png.png)\
+![alt text](image/13.2.png)\
 
 Xác định loại file bằng lệnh file\
 ![alt text](image/13.3.png)\
